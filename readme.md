@@ -51,3 +51,15 @@ tidak terpaut jauh
 
 nilai rataan dan varian sama dengan lambda
 
+## 4A
+
+menggunakan fungsi dchisq
+
+## 4B
+
+maka histogramnya adalah
+![4B](https://media.discordapp.net/attachments/869563207658913802/962717196449112115/unknown.png)
+
+## 4C
+
+nilai rataan adalah 10 dan varian adalah 20

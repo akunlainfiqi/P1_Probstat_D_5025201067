@@ -63,3 +63,30 @@ maka histogramnya adalah
 ## 4C
 
 nilai rataan adalah 10 dan varian adalah 20
+
+## 5A
+
+fungsinya adalah 1/betha e^(-x/betha)
+
+## 5B
+
+### 10
+
+![5B10](https://media.discordapp.net/attachments/869563207658913802/962718793136738324/unknown.png)
+
+### 100
+
+![5B100](https://media.discordapp.net/attachments/869563207658913802/962718841446739968/unknown.png)
+
+### 1000
+
+![5B1000](https://media.discordapp.net/attachments/869563207658913802/962718925634805851/unknown.png)
+
+### 10000
+
+![5B10000](https://media.discordapp.net/attachments/869563207658913802/962718970299949147/unknown.png)
+
+## 5C
+
+rataan adalah 3 dan varian adalah 9
+

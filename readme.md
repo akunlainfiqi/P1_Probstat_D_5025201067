@@ -34,3 +34,20 @@ berikut grafik histogram
 
 nilai rata2 adalah 4 dan varian 3.2
 
+## 3A
+
+menggunakan fungsi dpois
+
+## 3b
+
+menggunakan fungsi hist dan mein dari nilai rpois
+![3b](https://media.discordapp.net/attachments/869563207658913802/962715308764823572/unknown.png)
+
+## 3c
+
+tidak terpaut jauh
+
+## 3d
+
+nilai rataan dan varian sama dengan lambda
+

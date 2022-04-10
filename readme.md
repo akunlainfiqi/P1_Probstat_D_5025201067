@@ -15,6 +15,7 @@ hasil tidak terpaut jauh dari 0.1024
 ## 1D
 
 berikut grafik histogram 10000 data random
+
 ![1D](https://media.discordapp.net/attachments/869563207658913802/962706195561476096/unknown.png)
 
 ## 1E
@@ -28,6 +29,7 @@ menggunakan dbinom
 ## 2B
 
 berikut grafik histogram
+
 ![2B](https://media.discordapp.net/attachments/869563207658913802/962712887732875314/unknown.png)
 
 ## 2C
@@ -41,6 +43,7 @@ menggunakan fungsi dpois
 ## 3b
 
 menggunakan fungsi hist dan mein dari nilai rpois
+
 ![3b](https://media.discordapp.net/attachments/869563207658913802/962715308764823572/unknown.png)
 
 ## 3c
@@ -58,6 +61,7 @@ menggunakan fungsi dchisq
 ## 4B
 
 maka histogramnya adalah
+
 ![4B](https://media.discordapp.net/attachments/869563207658913802/962717196449112115/unknown.png)
 
 ## 4C
@@ -90,3 +94,15 @@ fungsinya adalah 1/betha e^(-x/betha)
 
 rataan adalah 3 dan varian adalah 9
 
+## 6A
+
+![6A](https://media.discordapp.net/attachments/869563207658913802/962724438778998794/unknown.png)
+
+
+## 6B
+
+![6B](https://media.discordapp.net/attachments/869563207658913802/962724478234796033/unknown.png)
+
+## 6C
+
+Varian dari Distribusi Normal adalah 64

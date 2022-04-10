@@ -21,3 +21,16 @@ berikut grafik histogram 10000 data random
 
 nilai rata2 adalah 5 dan varian 20
 
+## 2A
+
+menggunakan dbinom
+
+## 2B
+
+berikut grafik histogram
+![2B](https://media.discordapp.net/attachments/869563207658913802/962712887732875314/unknown.png)
+
+## 2C
+
+nilai rata2 adalah 4 dan varian 3.2
+
